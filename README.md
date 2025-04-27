@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Sou uma estudante de Ciência da Computação.. <br><br>- 🔭 Já trabalhei com ciência de dados e automação. <br>- 📚 Estudo na CESAR School. <br>- ⚡ No meu tempo livre me dedico a aprimorar e aprender novas linguagens e tecnologias.</p>
+<p align="left">Sou uma estudante de Ciência da Computação. <br><br>- 🔭 Já trabalhei com ciência de dados e automação. <br>- 📚 Estudo na CESAR School. <br>- ⚡ No meu tempo livre me dedico a aprimorar e aprender novas linguagens e tecnologias.</p>
 
 ###
 
