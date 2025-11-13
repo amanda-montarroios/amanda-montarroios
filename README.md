@@ -12,4 +12,6 @@ Sou uma estudante de Ciência da Computação.<br><br>- 🔭 Já trabalhei com c
 
 [![](https://visitcount.itsvg.in/api?id=amanda-montarroios&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-montarroios&layout=compact&theme=dark)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
